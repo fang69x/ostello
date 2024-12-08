@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ostello/ui/login_part.dart';
+import 'package:ostello/ui/pages/login_part.dart';
 
 void main() {
   runApp(const MyApp());
