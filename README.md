@@ -21,22 +21,50 @@ ostello/
         ├── background.jpg         # Background image for the app
         └── user1.jpg              # Example user image
 
-A new Flutter project.
-![Screenshot_1733687116](https://github.com/user-attachments/assets/56e3285a-cf1a-4664-a193-759ff6380678)
-![Screenshot_1733686644](https://github.com/user-attachments/assets/03b82358-5388-47cd-ad10-ec3a59d654f9)
-![Screenshot_1733686640](https://github.com/user-attachments/assets/c0f628c4-49ef-4514-90df-1cdbfb7f2e71)
-![Screenshot_1733686637](https://github.com/user-attachments/assets/45238cf4-4670-45f0-9095-bf9f3b7c98e0)
-![Screenshot_1733686633](https://github.com/user-attachments/assets/6d73ad7c-7fbf-4175-a11b-7eebab7e76c4)
+
+## Screenshots
+
+Here are some screenshots of the app interface:
+
+<img src="https://github.com/user-attachments/assets/56e3285a-cf1a-4664-a193-759ff6380678" width="300" />
+<img src="https://github.com/user-attachments/assets/03b82358-5388-47cd-ad10-ec3a59d654f9" width="300" />
+<img src="https://github.com/user-attachments/assets/c0f628c4-49ef-4514-90df-1cdbfb7f2e71" width="300" />
+<img src="https://github.com/user-attachments/assets/45238cf4-4670-45f0-9095-bf9f3b7c98e0" width="300" />
+<img src="https://github.com/user-attachments/assets/6d73ad7c-7fbf-4175-a11b-7eebab7e76c4" width="300" />
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow the steps below:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have the following installed on your machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Android Studio](https://developer.android.com/studio) (or any other IDE for Flutter development)
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-repo/ostello.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd ostello
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Run the app:
+
+    ```bash
+    flutter run
+    ```
