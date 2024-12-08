@@ -23,7 +23,7 @@ ostello/
         ├── background.jpg         # Background image for the app
         └── user1.jpg              # Example user image
 
-
+```
 
 
 ## Screenshots
