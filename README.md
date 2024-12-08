@@ -1,3 +1,6 @@
+## Project Structure
+
+```plaintext
 ostello/
 ├── lib/
 │   ├── core/                      # Core Layer - Utility classes, constants, helpers
@@ -19,6 +22,7 @@ ostello/
     └── images/
         ├── background.jpg         # Background image for the app
         └── user1.jpg              # Example user image
+
 
 
 
